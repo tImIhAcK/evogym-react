@@ -75,7 +75,7 @@ const OurClasses = ({ setSelectedPage }: Props) => {
         >
           <div className="w-5/6">
             <HText>OUR CLASSES</HText>
-            <p className="py-5">
+            <p className="py-5 text-justify">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
               rerum perspiciatis placeat magni officia at facilis fuga quod
               veritatis laudantium id tenetur in quae, quidem, a voluptate hic,

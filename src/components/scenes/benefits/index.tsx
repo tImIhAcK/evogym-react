@@ -60,7 +60,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
           className="md:my-5 md:w-3/5"
         >
           <HText>MORE THAN JUST A GYM.</HText>
-          <p className="my-5 text-sm">
+          <p className="my-5 text-justify text-sm">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
             quae ipsa vero facilis iste libero adipisci itaque obcaecati
             veritatis voluptate ex minima quaerat unde, labore excepturi?
